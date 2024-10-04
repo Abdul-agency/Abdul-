@@ -1,0 +1,58 @@
+body{
+    
+background-image:url("bloomalone image.jpg");
+}
+
+.container{
+background-color:#ff2b5f90;
+    width:70%;
+    height:320px;
+    margin:10px auto 7px;
+    padding:20px;
+    border:none;
+    border-radius:5px;
+    }
+    
+    img{
+            width:35%;
+            margin:0 70px 0 100px;
+            }
+            
+            .pswdchng{
+                margin:0 0 0 110px;
+                color:black;
+            }
+        
+            #psw{
+                width:100%;
+                border:none;
+                height:30px
+            }
+            #id-no{
+                width:100%;
+                border:none;
+                height:30px;
+            }
+            label{
+                color:white;
+            }
+    
+  .btn{
+    margin:10px 0 100px;
+    padding:7px 12px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: bolder; 
+    width:100%;
+    }
+    .wlcm{
+        color:#ffffff;
+        font-weight:bold;
+        text-align:center;
+    }
+    ::placeholder{
+        color:black;
+        height: 50px; 
+    }
+ 
